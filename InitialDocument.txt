@@ -1,1 +1,3 @@
-First attempt to create something. Check and make sure it shows up in the repo.
+First attempt to create something. Check and insure it shows up in the repo.
+
+But, obviously, it's not a new file any more.
